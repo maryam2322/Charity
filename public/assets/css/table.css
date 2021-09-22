@@ -1,0 +1,18 @@
+th, td, tr {
+    border: 2px none #0f538a;
+    text-align: center;
+    color: #1e347b;
+    font-size: 15px;
+}
+
+thead {
+    font-weight: bolder;
+    background: #1da0f2;
+}
+
+table {
+    border-collapse: collapse;
+    background: #ccffff;
+    margin-top: 50px;
+    width: 40%;
+}
