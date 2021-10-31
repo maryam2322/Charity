@@ -20,7 +20,7 @@
 
                 <div class="carousel-caption">
 
-                    <h2 class="carousel-title bounceInDown animated slow text-right">با کمک مالی خود آینده این کودکان را
+                    <h2 class="carousel-title bounceInDown animated slow ">با کمک مالی خود آینده این کودکان را
                         تامین کنیم</h2>
                     <a href="/pay-online" class="btn btn-lg bottn-secondary hidden-xs bounceInUp animated slow"
                        data-toggle="modal">کمک آنلاین</a>
@@ -126,7 +126,7 @@
             <div class="col-md-6">
                 <div class="reasons-col animate-onscroll fadeIn">
 
-                    <img style="width: 560px; height: 575px" src="/assets/images/reasons/donation-01.jfif" alt="">
+                    <img class="img-reasons" src="/assets/images/reasons/donation-01.jfif" alt="">
 
                     <div class="reasons-titles">
 
@@ -155,7 +155,7 @@
             <div class="col-md-6">
                 <div class="reasons-col animate-onscroll fadeIn">
 
-                    <img style="width: 560px; height: 575px" src="/assets/images/reasons/donation-02.jpg" alt="">
+                    <img class="img-reasons" src="/assets/images/reasons/donation-02.jpg" alt="">
 
                     <div class="reasons-titles">
 

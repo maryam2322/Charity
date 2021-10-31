@@ -5,7 +5,7 @@
         <div class="containerr">
             <div class="signin-content">
                 <div class="signin-image">
-                    <figure><img src="/assets/images/signup /login.jpg" alt=""></figure>
+                    <figure><img src="/assets/images/signup/login.jpg" alt=""></figure>
                     <a href="/signup" class="signup-image-link">ساخت حساب کاربری</a>
                 </div>
 

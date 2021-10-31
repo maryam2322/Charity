@@ -9,12 +9,12 @@
                     <form action="/register" class="register-form" id="register-form" method="POST">
                         @csrf
                         <div class="form-group">
-                            <input type="text" name="name" id="name" placeholder="نام خود  را وارد کنبد." required/>
+                            <input type="text" name="name" id="name" placeholder="نام خود  را وارد کنید." required/>
                             <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
                         </div>
                         <div class="form-group">
                             <label for="phone"><i class="zmdi zmdi-phone"></i></label>
-                            <input type="text" name="phone" id="phone" placeholder="تلفن همراه خود را وارد کنبد." required/>
+                            <input type="text" name="phone" id="phone" placeholder="تلفن همراه خود را وارد کنید." required/>
                         </div>
                         <div class="form-group">
                             <label for="text"><i class="zmdi zmdi-code"></i></label>
